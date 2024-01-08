@@ -1,0 +1,1 @@
+This project aims to automate the solving of the mini game "Puzzle Panel" within New Super Mario Bros. DS running inside of the OpenEmu emulator. PIL and PyAutoGUI are used to take screenshots of the user's window, OpenCV is used to process said screenshots, NumPy is used for turning the board state into a matrix, and SymPy is used for performing matrix solving operations.
